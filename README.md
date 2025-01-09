@@ -2,7 +2,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://t.me/jPlxg1n"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://freelance.habr.com/freelancers/wObsertion__"><img src="https://img.shields.io/badge/Habr-freelance-green?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Freelance"></a>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rirxr&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
